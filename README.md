@@ -51,13 +51,3 @@
 </div>
 
 
-
-###
-
-<div align="center">
-  
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tn6b4ywwxu2m5bopukomjwq55m&unique={true|1|on|yes})
-  
-</div>
-
-###
